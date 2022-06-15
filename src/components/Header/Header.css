@@ -1,0 +1,13 @@
+.nav a{
+   text-decoration: none;
+   background-color: rgb(161, 192, 58);
+   padding: 10px;
+   margin: 20px; 
+   border-radius: 5px;
+}
+.nav a:hover{
+    background-color: rgb(77, 236, 117);
+}
+.color{
+    background-color: #001c29;
+}
